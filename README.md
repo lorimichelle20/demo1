@@ -2,3 +2,5 @@
 ## by Lori
 
 ---
+
+here is a link:  [Markdown Help](http://help.github.com)
